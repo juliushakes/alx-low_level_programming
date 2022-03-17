@@ -1,4 +1,12 @@
-#include "main.h"
+
+
+
+
+
+
+
+
+#include "holberton.h"
 
 /**
  * print_triangle - check for a digit
