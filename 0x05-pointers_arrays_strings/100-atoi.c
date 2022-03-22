@@ -6,7 +6,7 @@
  * Return: integer converted
  */
 
-int _atoi(char *s)
+int atoi(char *s)
 {
 	int sign = 1, resp = 0, firstNum;
 
